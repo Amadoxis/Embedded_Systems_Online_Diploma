@@ -1,0 +1,8 @@
+/*****************************************************************************/
+Size of union = 32 bytes
+Size of structure = 40 bytes
+/*****************************************************************************/
+For Unions, the size of the biggest member is taken (the 32 bit string) as for
+structures, the size of all members is taken into consideration beacuase each 
+member will have its own reserved memory (not shared).
+/*****************************************************************************/
