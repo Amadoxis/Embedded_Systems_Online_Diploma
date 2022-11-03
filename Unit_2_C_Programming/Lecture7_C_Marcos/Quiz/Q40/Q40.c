@@ -10,7 +10,6 @@
 
 
 int Ahmed(){
-	float radius;
 
 	printf("\nI cant find the main fuction! Please help!!\n");
 
